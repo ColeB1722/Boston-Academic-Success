@@ -3,7 +3,7 @@ Understanding Academic Success Across the Boston Area
 
 A webpage exploring what factors lead to academic success in the Boston Public School system, utilizing a series of data visualizations. This project is coded in css, javascript, and html. 
 
-# Usage
+## Usage
 
 To view the webpage, simply copy the following url into any browser:
 
